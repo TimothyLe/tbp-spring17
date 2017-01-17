@@ -5,6 +5,6 @@ TBP SJSU chapter
 ```
 The IT Lead Github Respository 
 ```
-For 'Spring 2017'
+For `Spring 2017`
 
 [Tau Beta Pi SJSU] (http://tbpsjsu.org/)
