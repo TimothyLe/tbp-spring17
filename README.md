@@ -1,5 +1,5 @@
 # tbp-spring17
-TBP SJSU chapter 
+TBP SJSU chapter  
 [TBP SJSU website](http://tbpsjsu.org/)
 
 ## What is this?
