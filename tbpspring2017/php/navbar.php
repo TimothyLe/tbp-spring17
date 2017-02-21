@@ -1,5 +1,18 @@
 <?php
-echo '<!-- Top Menu -->
+echo ' <!-- Header -->
+        <div id="header" style="background-position: 50% 0%; <br />
+<b>Notice</b>:  Undefined variable: full_page in <b>C:\xampp\htdocs\bootstrap\html\php\header.php</b> on line <b>46</b><br />
+" data-stellar-background-ratio="0.5">
+            <div class="container">
+                <div class="row">
+                    <!-- Logo -->
+                    <div class="logo">
+                        <a href="index.html">
+                            <img src="assets/img/logo.png" alt="Logo">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</a>
+                    </div>
+                    <!-- End Logo -->
+                </div>
+                                  <!-- Top Menu -->
                 <div id="hornav" class="row text-light">
                     <div class="col-md-21">
                         <div class="text-center visible-lg">
@@ -49,7 +62,8 @@ echo '<!-- Top Menu -->
                                          <li>
                                             <a href="mentoring.html" >Mentoring Program</a>
                                         </li>
-                                                                                
+                                        
+                                        
                                     </ul>
                                 </li>
                                 <li>
@@ -71,7 +85,12 @@ echo '<!-- Top Menu -->
                         </div>
                     </div>
                 </div>
-                <!-- End Top Menu -->';
+                <!-- End Top Menu -->
+            </div>
+        </div>
+        <!-- End Header -->
+        <!-- === END HEADER === -->
+        <!-- === BEGIN CONTENT === -->';
                 ?>
 
 <!-- <?php
