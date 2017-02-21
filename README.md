@@ -1,5 +1,6 @@
-# tbp-spring17
-The official code for the TBP Eta chapter  
+# TBP Spring 17
+The official code for the TBP Eta chapter.
+As the current IT Lead for SJSU's TBP club, I upload all of my custom renditions of the website's code here.
 
 ## What is this?
 ```
