@@ -1,13 +1,13 @@
 # TBP Spring 17
 The official code for the TBP Eta chapter.
-As the current IT Lead for SJSU's TBP club, I upload all of my custom renditions of the website's code here.
+As the current IT Lead for SJSU's TBP club, I upload all of my custom renditions of the website's code here.  
+**Copyright © 2017 Thinh Le**
 
 ## Latest Features
 Now you can find the 404 page when you mistype a URL!    
 You will now no longer leave the site even if the link is incorrect.  
 Try it by clicking on this link:  
 [Fake Link](http://www.tbpsjsu.org/fakelink)
-For **Spring 2017**  
 
 ## Tasks
 * Favicon 
