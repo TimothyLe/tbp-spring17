@@ -22,7 +22,7 @@ Try it by clicking on this link:
 
 ## Completions
 * Favicon :white_check_mark:   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _The website now has an icon in your browser's tab, say hello to Sammy!_   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * _The website now has an icon in your browser's tab, say hello to Sammy!_   
 * Target Blank replaced :white_check_mark:   
 * Changing the google drive link :white_check_mark:  
 * Editing officers.html with new cabinet :white_check_mark:  
