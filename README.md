@@ -10,25 +10,26 @@ Try it by clicking on this link:
 [Fake Link](http://www.tbpsjsu.org/fakelink)
 
 ## Tasks
+* Docker Machine (Web Server)  
 * PHP includes
 * HTML -> PHP
 * Cabinet history (Spring 2015...Fall 2016)
 * Update requirements
 * Add officer descriptions
-* LinkedIn/Facebook links (_#_)
 * Login/Register   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * SQL injections   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * dDOS attacks    
 
 ## Completions
 * Favicon :white_check_mark:   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * _The website now has an icon in your browser's tab, say hello to Sammy!_   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • _The website now has an icon in your browser's tab, say hello to Sammy!_   
 * Target Blank replaced :white_check_mark:   
 * Changing the google drive link :white_check_mark:  
 * Editing officers.html with new cabinet :white_check_mark:  
 * Pushed new officer page to cPanel web server :white_check_mark:  
 * Added name in footer :white_check_mark:   
-* 404 page active :white_check_mark:  
+* 404 page active :white_check_mark:    
+* LinkedIn/Facebook links (_#_) :white_check_mark:    
 
 ### Making a push request
 Open up a Git Bash, cmder, or etc and type the following commands.  
