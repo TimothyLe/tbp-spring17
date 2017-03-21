@@ -3,7 +3,13 @@ The official code for the TBP Eta chapter.
 As the current IT Lead for SJSU's TBP club, I upload all of my custom renditions of the website's code here.  
 **Copyright © 2017 Thinh Le**
 
-## Latest Features
+## Latest Features  
+### Gallery
+Ive been working with the fonts.css file to create the new navbar tab     
+It will be implemented shortly    
+![Gallery Navbar](https://github.com/TimothyLe/tbp-spring17/blob/master/gallery.JPG)   
+
+### 404  
 Now you can find the 404 page when you mistype a URL!    
 You will now no longer leave the site even if the link is incorrect.  
 Try it by clicking on this link:  
