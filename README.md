@@ -9,17 +9,22 @@ You will now no longer leave the site even if the link is incorrect.
 Try it by clicking on this link:  
 [Fake Link](http://www.tbpsjsu.org/fakelink)
 
-## Tasks
-* Docker Machine (Web Server)  
+## Tasks  
+* Make a localhost for website
+* Update Links navbar tab
+* Docker Machine (*HyperV issue*)  :warning:  
 * PHP includes
 * HTML -> PHP
 * Cabinet history (Spring 2015...Fall 2016)
-* Update requirements
-* Add officer descriptions
 * Login/Register   
+&nbsp;&nbsp;&nbsp; * Security  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * SQL injections   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * dDOS attacks    
-* Tau Beta (A)Pi
+&nbsp;&nbsp;&nbsp; * Deployment   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * PHP/MySQL/Apache    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * Laravel (framework)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * Composer (dependency manager)    
+* Tau Beta (A)Pi  
 
 ## Completions
 * Favicon :white_check_mark:   
