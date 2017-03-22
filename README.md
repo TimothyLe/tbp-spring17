@@ -43,6 +43,11 @@ Try it by clicking on this link:
 * 404 page active :white_check_mark:    
 * LinkedIn/Facebook links (_#_) :white_check_mark:    
 
+### TBP Wiki
+If you have any question or need more clarification on certain topics, please visit my wiki for the Tau Beta Pi California Eta website code that posesses more information on those topics:  
+  
+https://github.com/TimothyLe/tbp-spring17/wiki
+
 ### Making a push request
 Open up a Git Bash, cmder, or etc and type the following commands.  
 ```
@@ -57,9 +62,10 @@ log [optional]
 ```
 Shortly, the request should arrive here.   
 
-## 
-![Tau Beta Pi Engineering Honor Society Logo](https://github.com/TimothyLe/tbp-spring17/blob/master/tbp.gif)
 ### Visit Us!    
-[Tau Beta Pi SJSU] (http://tbpsjsu.org/)  
+[Tau Beta Pi SJSU] (http://tbpsjsu.org/)   
+
+![Tau Beta Pi Engineering Honor Society Logo](https://github.com/TimothyLe/tbp-spring17/blob/master/tbp.gif)
+
 
 
