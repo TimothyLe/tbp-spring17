@@ -4,8 +4,13 @@ As the current IT Lead for SJSU's TBP club, I upload all of my custom renditions
 **Copyright © 2017 Thinh Le**
 
 ## Latest Features  
+### oAuth
+Currently, deciding between ruby's Devise for authentication + CanCan for authorization.  
+Whereas I also plan on using composer to install Laravel dependencies like Passport for authentication.  
+I created two separate branches and will work with the one that is less strenuous to integrate onto the site.  
+
 ### Gallery
-Ive been working with the fonts.css file to create the new navbar tab     
+I've been working with the fonts.css file to create the new navbar tab     
 It will be implemented shortly    
 ![Gallery Navbar](https://github.com/TimothyLe/tbp-spring17/blob/master/gallery.JPG)   
 
