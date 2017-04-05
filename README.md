@@ -1,10 +1,7 @@
-# tbp-spring17
-TBP SJSU chapter 
+# TBP Spring '17
 
-## What is this?
-```
-The IT Lead Github Respository 
-```
-For `Spring 2017`
+This is the ruby version of the website code.  
+
+Ruby gems and rails will be used in this branch.  
 
 [Tau Beta Pi SJSU] (http://tbpsjsu.org/)
