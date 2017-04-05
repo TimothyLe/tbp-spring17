@@ -1,10 +1,7 @@
-# tbp-spring17
-TBP SJSU chapter 
+# TBP Spring '17
 
-## What is this?
-```
-The IT Lead Github Respository 
-```
-For `Spring 2017`
+This is the php version.  
+
+Composer/Laravel will be the focus of this branch.  
 
 [Tau Beta Pi SJSU] (http://tbpsjsu.org/)
