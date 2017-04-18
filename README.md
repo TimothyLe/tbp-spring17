@@ -68,7 +68,7 @@ log [optional]
 Shortly, the request should arrive here.   
 
 ### Visit Us!    
-[Tau Beta Pi SJSU] (http://tbpsjsu.org/)   
+[Tau Beta Pi SJSU](http://tbpsjsu.org/)   
 
 ![Tau Beta Pi Engineering Honor Society Logo](https://github.com/TimothyLe/tbp-spring17/blob/master/tbp.gif)
 
