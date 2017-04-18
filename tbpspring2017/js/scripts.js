@@ -6,3 +6,9 @@ $(function() {
   });
 });
 //Credit goes Badly Drawn Toys
+
+// Window alert for To-do tbp
+function myFunction(){
+                    alert("Hello!");
+                }
+// W3Schools
