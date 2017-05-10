@@ -23,6 +23,7 @@ Try it by clicking on this link:
 ## Tasks  
 * Using Devise authentication (devise getting-started)[https://github.com/plataformatec/devise#getting-started]
 * Using Cancan authorization (cancan getting-started)[https://github.com/ryanb/cancan/#readme]
+* Work on desktop notifications in JS (desktop-notifications)[http://stackoverflow.com/questions/6092885/what-ways-are-out-there-to-display-a-desktop-notification-from-a-web-app/13328397#13328397]
 
 ## Completions
 * Favicon :white_check_mark:   
