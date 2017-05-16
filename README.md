@@ -6,7 +6,14 @@ As the current IT Lead for SJSU's TBP club, I upload all of my custom renditions
 ## Latest Features  
 ### Carousel
 A slideshow of images that displays the events held at the Tau Beta Pi California Eta chapter. These events included socializing in a wilderness hike to professional networking with a company lunch & learn.
-![TBPSJSU Carousel]()
+![TBPSJSU Carousel](https://github.com/TimothyLe/tbp-spring17/blob/master/images/carousel.JPG)
+
+### New Buttons
+Bootstrap-styled buttons now link to embedded ruby files (.erb):  
+* Login -------> _navbar.html.erb_  
+* Register ----> _application.html.erb_  
+* Notify ------> _scripts.js (desktop notication)_  
+![TBP home page buttons](https://github.com/TimothyLe/tbp-spring17/blob/master/images/notif.JPG)
 
 If you want to read about more features visit the [Features wiki](https://github.com/TimothyLe/tbp-spring17/wiki/Latest-Features)!  
 
