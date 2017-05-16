@@ -4,23 +4,14 @@ As the current IT Lead for SJSU's TBP club, I upload all of my custom renditions
 **Copyright © 2017 Thinh Le**
 
 ## Latest Features  
-### oAuth
-Currently, deciding between ruby's Devise for authentication + CanCan for authorization.  
-Whereas I also plan on using composer to install Laravel dependencies like Passport for authentication.  
-I created two separate branches and will work with the one that is less strenuous to integrate onto the site.  
+### Carousel
+A slideshow of images that displays the events held at the Tau Beta Pi California Eta chapter. These events included socializing in a wilderness hike to professional networking with a company lunch & learn.
+![TBPSJSU Carousel]()
 
-### Gallery
-I've been working with the fonts.css file to create the new navbar tab     
-It will be implemented shortly    
-![Gallery Navbar](https://github.com/TimothyLe/tbp-spring17/blob/master/gallery.JPG)   
+If you want to read about more features visit the [Features wiki](https://github.com/TimothyLe/tbp-spring17/wiki/Latest-Features)!  
 
-### 404  
-Now you can find the 404 page when you mistype a URL!    
-You will now no longer leave the site even if the link is incorrect.  
-Try it by clicking on this link:  
-[Fake Link](http://www.tbpsjsu.org/fakelink)
-
-## Tasks  
+## Goals for Fall 2017  
+* Create a fully functional forum {*might take a couple semesters*)  
 * Using Devise authentication   
 [devise getting-started](https://github.com/plataformatec/devise#getting-started)
 * Using Cancan authorization   
@@ -44,24 +35,10 @@ If you have any question or need more clarification on certain topics, please vi
   
 https://github.com/TimothyLe/tbp-spring17/wiki
 
-### Making a push request
-Open up a Git Bash, cmder, or etc and type the following commands.  
-```
-git clone https://github.com/TimothyLe/tbp-spring17.git [Your directory]  
-git add . [or any single files you like]  
-git commit -m "Your message"  
-git remote add origin https://github.com/TimothyLe/tbp-spring17.git  
-git remote -v  
-git pull origin master  
-git push origin master  
-log [optional]  
-```
-Shortly, the request should arrive here.   
-
 ### Visit Us!    
 [Tau Beta Pi SJSU](http://tbpsjsu.org/)   
 
-![Tau Beta Pi Engineering Honor Society Logo](https://github.com/TimothyLe/tbp-spring17/blob/master/tbp.gif)
+![Tau Beta Pi Engineering Honor Society Logo](https://github.com/TimothyLe/tbp-spring17/blob/master/images/tbp.gif)
 
 
 
