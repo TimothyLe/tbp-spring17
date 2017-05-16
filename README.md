@@ -21,21 +21,12 @@ Try it by clicking on this link:
 [Fake Link](http://www.tbpsjsu.org/fakelink)
 
 ## Tasks  
-* Make a localhost for website
-* Update Links navbar tab
-* Docker Machine (*HyperV issue*)  :warning:  
-* PHP includes
-* HTML -> PHP
-* Cabinet history (Spring 2015...Fall 2016)
-* Login/Register   
-&nbsp;&nbsp;&nbsp; * Security  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * SQL injections   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * dDOS attacks    
-&nbsp;&nbsp;&nbsp; * Deployment   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * PHP/MySQL/Apache    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * Laravel (framework)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * Composer (dependency manager)    
-* Tau Beta (A)Pi  
+* Using Devise authentication   
+[devise getting-started](https://github.com/plataformatec/devise#getting-started)
+* Using Cancan authorization   
+[cancan getting-started](https://github.com/ryanb/cancan/#readme)
+* Work on desktop notifications in JS   
+[desktop-notifications](http://stackoverflow.com/questions/6092885/what-ways-are-out-there-to-display-a-desktop-notification-from-a-web-app/13328397#13328397)
 
 ## Completions
 * Favicon :white_check_mark:   
