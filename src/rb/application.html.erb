@@ -1,23 +1,62 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>EzExam</title>
-  <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
-  <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
-  <%= csrf_meta_tags %>
+	<!-- Title -->
+	<title>Tau Beta Pi | 404</title>
+	<!-- Meta -->
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="description" content="">
+	<meta name="author" content="">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+	<!-- Favicon -->
+	<link rel="shortcut icon" href="favicon.ico">
+	<!-- Bootstrap Core CSS -->
+	<link rel="stylesheet" href="assets/css/bootstrap.css" rel="stylesheet">
+	<!-- Template CSS -->
+	<link rel="stylesheet" href="assets/css/animate.css" rel="stylesheet">
+	<link rel="stylesheet" href="assets/css/font-awesome.css" rel="stylesheet">
+	<link rel="stylesheet" href="assets/css/nexus.css" rel="stylesheet">
+	<link rel="stylesheet" href="assets/css/responsive.css" rel="stylesheet">
+	<link rel="stylesheet" href="assets/css/custom.css" rel="stylesheet">
+	<!-- Google Fonts-->
+	<link href="http://fonts.googleapis.com/css?family=Raleway:100,300,400" type="text/css" rel="stylesheet">
+	<link href="http://fonts.googleapis.com/css?family=Roboto:400,300" type="text/css" rel="stylesheet">
+	<!--Ruby-->
+	<%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
+	<%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
+	<%= csrf_meta_tags %>
 </head>
 <body>
 
-<%= render 'layouts/navbar' %>
+	<%= render 'rb/_navbar' %>
 
-<div class="container" style="margin-top:-10px;margin-bottom:70px;">
-	<% if alert %>
+	<div class="container" style="margin-top:-10px;margin-bottom:70px;">
+		<% if alert %>
 		<p class="alert"><%= alert %></p>
-	<% end %>
-	<%= yield %>	
-</div>
+		<% end %>
+		<%= yield %>	
+	</div>
 
-<%= render 'layouts/footer' %>
+	<%= render 'rb/_footer' %>
 
+	<!-- JS -->
+	<script type="text/javascript" src="assets/js/jquery.min.js" type="text/javascript"></script>
+	<script type="text/javascript" src="assets/js/bootstrap.min.js" type="text/javascript"></script>
+	<script type="text/javascript" src="assets/js/scripts.js"></script>
+	<!-- Isotope - Portfolio Sorting -->
+	<script type="text/javascript" src="assets/js/jquery.isotope.js" type="text/javascript"></script>
+	<!-- Mobile Menu - Slicknav -->
+	<script type="text/javascript" src="assets/js/jquery.slicknav.js" type="text/javascript"></script>
+	<!-- Animate on Scroll-->
+	<script type="text/javascript" src="assets/js/jquery.visible.js" charset="utf-8"></script>
+	<!-- Stellar Parallax -->
+	<script type="text/javascript" src="assets/js/jquery.stellar.js" charset="utf-8"></script>
+	<!-- Sticky Div -->
+	<script type="text/javascript" src="assets/js/jquery.sticky.js" charset="utf-8"></script>
+	<!-- Slimbox2-->
+	<script type="text/javascript" src="assets/js/slimbox2.js" charset="utf-8"></script>
+	<!-- Modernizr -->
+	<script src="assets/js/modernizr.custom.js" type="text/javascript"></script>
+	<!-- End JS -->
 </body>
 </html>

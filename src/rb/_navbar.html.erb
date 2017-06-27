@@ -1,4 +1,82 @@
- <nav class="navbar navbar-inverse" style="background:#2c3e50;border:0px;border-radius:0px;">
+<!-- Top Menu -->
+<div id="hornav" class="row text-light">
+  <div class="col-md-21">
+    <div class="text-center visible-lg">
+      <ul id="hornavmenu" class="nav navbar-nav">
+        <li>
+          <a href="index.html" class="fa-home active">Home</a>
+        </li>
+        <li>
+          <a href="about.html" class="fa-university">About Us</a>
+          <ul>
+            <li>
+              <a href="about.html"  >Our Chapter</a>
+            </li>
+            <li>
+              <a href="benefits.html">Benefits</a>
+            </li>
+            <li>
+              <a href="requirements.html" >Requirements</a>
+            </li>
+          </ul>
+        </li>
+        <li>
+          <a href="officers.html" class="fa-user ">Officers</a>
+          <ul>
+            <li>
+              <a href="officers.html"  >Current Officers</a>
+            </li>
+            <li>
+              <a href="descriptions.html" >Position Descriptions</a>
+            </li>
+            <li>
+              <a href="cabinethistory.html" >Cabinet History</a>
+            </li>
+          </ul>
+        </li>
+
+
+        <li>
+          <a href="https://calendar.google.com/calendar/embed?src=tbpsjsu.org_p2qdu6i9ogbd4fmvcpp4cf5vlc%40group.calendar.google.com&ctz=America/Los_Angeles" target = "_blank" class="fa-calendar">Calendar</a>
+        </li>
+
+        <li>
+          <span class="fa-paper-plane-o ">Links</span>
+          <ul>
+
+            <li>
+              <a href="https://drive.google.com/drive/folders/0BxtUAok7tEutRTVOazBsV3VjM0U?usp=sharing" target="_blank">For Candidates</a>
+            </li>
+            <li>
+              <a href="mentoring.html" >Mentoring Program</a>
+            </li>
+
+          </ul>
+        </li>
+        <li>
+
+        </li>
+
+        <li>
+          <a href="contact.html" class="fa-comment ">Contact</a>
+          <ul><li>
+            <a href="contact.html" >Contact Us</a>
+          </li>
+          <li>
+            <a href="faq.html">FAQ</a>
+          </li> </ul>
+        </li>
+        <li>
+          <a href="gallery.html" class="fa-photo ">Gallery</a>
+        </li>
+
+
+      </ul>
+    </div>
+  </div>
+</div>
+<!-- End Top Menu -->
+<!--  <nav class="navbar navbar-inverse" style="background:#2c3e50;border:0px;border-radius:0px;">
   <div class="container">
     <div class="navbar-header">
       <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
@@ -21,7 +99,7 @@
       </ul>
     </div>
   </div>
-</nav>
+</nav> -->
 
 <div class="modal fade bs-modal-sm" id="myModal" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" aria-hidden="true">
   <div class="modal-dialog modal-md">
@@ -35,8 +113,8 @@
       </div>
       <div class="modal-body">
         <div id="myTabContent" class="tab-content">
-        <div class="tab-pane fade active in" id="signin">
-          <%
+          <div class="tab-pane fade active in" id="signin">
+            <%
             def resource_name
               :user
             end
@@ -48,11 +126,11 @@
             def devise_mapping
               @devise_mapping ||= Devise.mappings[:user]
             end
-          %>
-          <%= render 'devise/sessions/login_session' %>
-        </div>
-        <div class="tab-pane fade" id="signup">
-          <%
+            %>
+            <%= render 'devise/sessions/login_session' %>
+          </div>
+          <div class="tab-pane fade" id="signup">
+            <%
             def resource_name
               :teacher
             end
@@ -64,16 +142,16 @@
             def devise_mapping
               @devise_mapping ||= Devise.mappings[:teacher]
             end
-          %>
-          <%= render 'devise/sessions/login_session' %>  
+            %>
+            <%= render 'devise/sessions/login_session' %>  
+          </div>
         </div>
       </div>
-    </div>
-    <div class="modal-footer">
-      <center>
-        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-      </center>
+      <div class="modal-footer">
+        <center>
+          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        </center>
+      </div>
     </div>
   </div>
-</div>
 </div>
